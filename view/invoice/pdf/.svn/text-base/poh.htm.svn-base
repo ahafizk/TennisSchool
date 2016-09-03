@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title><style type="text/css">
+<!--
+body,td,th {
+	font-family: Tahoma;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+  <table width="587" border="0" align="left" cellpadding="2" cellspacing="2">
+    <tr>
+      <td width="129" height="266" align="left" valign="top"><table width="121" height="268" border="0" cellpadding="2" cellspacing="2">
+          <tr>
+            <td width="153" height="54"><img src="image/rgs_logo.JPG" width="67" height="51" /></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="120" border="0" cellspacing="2" cellpadding="2">
+              <tr>
+                <td>BRAND:</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td>WAREHOUSE:</td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table width="121" border="0" cellspacing="2" cellpadding="2">
+              <tr>
+                <td><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">DESCRIPTION</td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td height="55" align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">SUPPLIER REF. </td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table width="121" border="0" cellspacing="2" cellpadding="2">
+              <tr>
+                <td><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">EXT COMP. </td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td height="26" align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">LINING COMP . </td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">PADDING COMP </td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">HANGTAG</td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">MAINLABEL</td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">EXT FABRIC </td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><table width="113" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr>
+                      <td width="109" align="center">CARE INSTRUCT </td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+      </table></td>
+      <td width="444" align="left" valign="top"><table width="444" border="0" align="left" cellpadding="2" cellspacing="2">
+        <tr>
+          <td width="436" align="left" valign="top"><table border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+            <tr>
+              <td width="95" align="center" valign="middle">ORDER Nb </td>
+              <td width="128" align="center" valign="middle">SUPPLIER</td>
+              <td width="87" align="center" valign="middle">DATE</td>
+              <td width="104" align="center" valign="middle">SEASON</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table width="424" border="0" cellpadding="0" cellspacing="0" bordercolor="#000000">
+            <tr>
+              <td width="129" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="140" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="192" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="192" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table height="17" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+            <tr>
+              <td width="133" align="center" valign="middle">PAYMENTS TERMS </td>
+              <td width="104" align="center" valign="middle">INCOTERM</td>
+              <td width="94" align="center" valign="middle">FROM</td>
+              <td width="84" align="center" valign="middle">TO</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table width="426" border="0" cellpadding="0" cellspacing="0" bordercolor="#000000">
+            <tr>
+              <td width="102" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="111" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="152" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="60" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table height="19" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+            <tr>
+              <td width="145" align="center" valign="middle">TYPE OF TRANSPORT </td>
+              <td width="132" align="center" valign="middle">COUNTRY OF ORIGIN </td>
+              <td width="141" align="center" valign="middle">BOARDING COUNTRY </td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table width="426" border="0" cellpadding="0" cellspacing="0" bordercolor="#000000">
+            <tr>
+              <td width="205" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="164" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="57" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+            <tr>
+              <td width="133" align="center" valign="middle">REPEAT</td>
+              <td width="134" align="center" valign="middle">SHIPPING DATE  </td>
+              <td width="153" align="center" valign="middle">ARRIVAL DATE  </td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table width="427" border="0" cellpadding="0" cellspacing="0" bordercolor="#000000">
+            <tr>
+              <td width="164" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="131" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="132" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table height="17" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+            <tr>
+              <td width="91" align="center" valign="middle">BUYER</td>
+              <td width="118" align="center" valign="middle">EXCLUSIVE FOR.. </td>
+              <td width="84" align="center" valign="middle">DIRECT TO </td>
+              <td width="125" align="center" valign="middle">IN TRANSIT FOR </td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table width="432" border="0" cellpadding="0" cellspacing="0" bordercolor="#000000">
+            <tr>
+              <td width="105" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="89" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="113" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="125" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table width="434" height="44" border="0" cellpadding="1" cellspacing="1">
+            <tr>
+              <td width="132" height="20" align="center" valign="middle"><table width="130" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                  <tr>
+                    <td width="76" align="center">COLOUR</td>
+                    <td width="73" align="center">NUMBER</td>
+                  </tr>
+              </table></td>
+              <td width="237" align="center" valign="middle"><table width="232" height="17" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                  <tr>
+                    <td width="48" align="center">&nbsp;</td>
+                    <td width="49" align="center">&nbsp;</td>
+                    <td width="54" align="center">&nbsp;</td>
+                    <td width="29" align="center">&nbsp;</td>
+                    <td width="40" align="center">&nbsp;</td>
+                  </tr>
+              </table></td>
+              <td width="92" align="center" valign="middle"><table width="43" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                  <tr>
+                    <td width="39" align="center">TOTAL</td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td height="20" align="center" valign="middle"><table width="132" border="0" cellpadding="0" cellspacing="1">
+                  <tr>
+                    <td width="67" align="center" bgcolor="#FFFFFF">&nbsp;</td>
+                    <td width="71" align="center" bgcolor="#FFFFFF">&nbsp;</td>
+                  </tr>
+              </table></td>
+              <td align="center" valign="middle"><table width="237" height="15" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="51" align="center">&nbsp;</td>
+                    <td width="55" align="center">&nbsp;</td>
+                    <td width="60" align="center">&nbsp;</td>
+                    <td width="40" align="center">&nbsp;</td>
+                    <td width="31" align="center">&nbsp;</td>
+                  </tr>
+              </table></td>
+              <td align="center" valign="middle">&nbsp;</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><table width="396" border="0" align="left" cellpadding="1" cellspacing="1">
+            <tr>
+              <td width="87" height="133" align="left" valign="top"><table width="87" border="0" cellpadding="1" cellspacing="1">
+                  <tr>
+                    <td width="83" align="center"><table width="81" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                        <tr>
+                          <td width="77" align="center">ARTICLE</td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td align="center">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="center"><img src="image/po_bar.gif" width="79" height="47" /></td>
+                  </tr>
+                  <tr>
+                    <td align="center" bgcolor="#FF0000">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="center">&nbsp;</td>
+                  </tr>
+              </table></td>
+              <td width="94" align="center" valign="top"><table width="94" height="128" border="0" cellpadding="1" cellspacing="1">
+                  <tr>
+                    <td width="80" height="20" align="center"><table border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#CCCCCC">
+                        <tr>
+                          <td align="center">REMARKS</td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="105" align="center">&nbsp;</td>
+                  </tr>
+              </table></td>
+              <td width="205" valign="top"><table width="182" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+                <tr>
+                  <td width="142" bgcolor="#CCCCCC">TOTAL</td>
+                  <td width="40">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="142" bgcolor="#CCCCCC">COST PRICE (USD) </td>
+                  <td width="40">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="142" bgcolor="#CCCCCC">UNIT LOT </td>
+                  <td width="40">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="142" bgcolor="#CCCCCC">ALARMED GARMENT </td>
+                  <td width="40">&nbsp;YES</td>
+                </tr>
+                <tr>
+                  <td width="142" bgcolor="#CCCCCC">CONSULT REGULATION </td>
+                  <td width="40">&nbsp;YES</td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td height="133" colspan="3" align="left" valign="top"><table width="0" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><strong>GENERATION CONDITION OF PRUCHASE:</strong><br />
+1.-The present sale or purchase will not be completed until RGS U.S.A. receives the suppliers full acceptance. This will take place when a duplicate of the order is returned, signed and sealed by the supplier. If this acceptance is not<br />
+received within a period of 15 days as of the date of the order, the order will invalied.<br />
+2.-If, after the scheduled delivery date, the goods have not been received, the purchaser may decide freely<br />
+whether to accept or reject them, without being under the obligation to pay any compesation whatsoever.<br />
+3.-Should there be any difference between the sample on which the order was based and the manufactured goods,<br />
+the supplier must not dispatch them without the written authorization of the purchaser, who, even in such a case,<br />
+reserves the right to reject the goods once they have been examined.<br />
+4.-The delivery of goods must be made in the agreed quantity. The purchaser will accept a difference of a lower amount of stock of upto 5% of the quantity agreed upon in the order. In this case the order for the undelivered goods will be understood as automatically cancelled, unless otherwise agreed in writting by the buyer. 5.-The acceptance, whether manifest or implied, of the order implies the acceptance of the General Condition of the Labeling Manual and of the particular or special conditions state above. No modification of these, not the application of any different conditions, will be effective unless the carry the written consent of the purchaser, being signed by an authorization person.<br />
+6.-The supplier and the purchaser will be subjected to Swiss Law and the jurisdiction and contention of the courtsofjusticeandtribunalsofthecityof Friburg (Switzerland),manifestly foregoing any other which might correspond to them.<br />
+7.-The purchsed goods must comply with regulations concerning both the composition of all products and the contractionsa limits of dangerous substances (such as formaldehide, formalin) and for hardware goods, with food use or contact with children, that are applicable whatever the country, and the supplier is under the responsibility towards the buyer, for all losses and damages, that the non compliance of their obligatin can bring about.<br />
+8.-The supplier guarantees that he understands and conforms to the Inditex Code of Conduct, that he has received.<br />
+9.- It is the suppliers responsibility to fulfill Inditex Group quality requirments.<br />
+10.- The supplier guarantees that all products ar not sourced from endangered species of plants, animals or other.<br />
+11.- The supplier guarantees RGS U.S.A. the originality of merchandise and, therefore, remains liable for any damage or injury caused to any third party&rsquo;s prior rights, namely rights regarding with disloyal competence, industrial or intellectual property rights.</td>
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="32" align="left" valign="top"><table width="436" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="244"><strong>Signed: RGS HK LTD.,</strong></td>
+              <td width="213"><strong>Signed by Supplier :</strong></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+          </table></td>
+        </tr>
+      </table></td>
+    </tr>
+</table>
+</body>
+
+</html>

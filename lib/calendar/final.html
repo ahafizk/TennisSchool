@@ -1,0 +1,29 @@
+<html>
+<head><title>jQuery Open on image button</title>
+<link type="text/css" href="jquery-ui-1.7.2.custom.css" rel="stylesheet" />	
+		<script type="text/javascript" src="jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="jquery-ui-1.7.2.custom.min.js"></script>
+		<style type="text/css">
+			.bd { font-size: 55.5%; }
+			.ct {width: 160px; height: 1.4em; }
+		</style>
+</head>
+<body>
+hi hello
+<body class="bd">
+
+<form>
+	<input class="ct" id="date" type="textbox"  readonly="true"/>
+	
+</form>
+
+	
+	<script type="text/javascript">
+		$(document).ready(function(){
+    			$("#date").datepicker({ showButtonPanel: true,changeMonth: true,changeYear: true,showOn: 'both', buttonImageOnly: true, buttonImage: 'images/calendar.gif' });
+  		});
+	</script>
+</body>
+</body>
+</html>
+

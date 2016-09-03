@@ -1,0 +1,19 @@
+.tableStyle1{
+	border-right: 1px;
+	border: 1px; 
+	border-color: #7CAFB8;
+	border-style:solid;
+}
+.border_bottom{
+border: 0px;
+border-bottom: 1px;
+border-right: 1px;
+border-color: #7CAFB8;
+border-style: solid;
+}
+.border_right{
+border: 0px;
+border-right: 1px;
+border-color: #7CAFB8;
+border-style: solid;
+}
